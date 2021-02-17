@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hinageshi)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hinageshi&show_icons=true&theme=vue" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hinageshi&layout=compact&theme=vue&exclude_repo=PTS1" />
+</a>
 
 <!--
 **Hinageshi/Hinageshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
